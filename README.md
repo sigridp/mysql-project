@@ -1,4 +1,4 @@
-# mysql-school-project
+# mysql-project
 mysql project with php
 
 the assignment was:
